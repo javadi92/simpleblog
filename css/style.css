@@ -1,0 +1,6 @@
+body{
+    direction: rtl;
+}
+.card-title,.card-text,.card-footer,h4{
+    text-align: right;
+}
